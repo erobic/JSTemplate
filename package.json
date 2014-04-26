@@ -1,0 +1,33 @@
+{
+  "name": "JSTemplate",
+  "version": "0.1.0",
+  "description": "Template javascript project",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/robikshrestha/JSTemplate.git"
+  },
+  "keywords": [
+    "js",
+    "template",
+    "grunt"
+  ],
+  "author": "robikshrestha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robikshrestha/JSTemplate/issues"
+  },
+  "homepage": "https://github.com/robikshrestha/JSTemplate",
+  "devDependencies": {
+    "grunt": "^0.4.4",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-connect": "^0.7.1",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-smash": "^0.1.0",
+    "grunt-contrib-uglify": "^0.4.0",
+    "grunt-contrib-jasmine": "^0.6.3",
+    "grunt-contrib-jshint": "^0.10.0"
+  }
+}
